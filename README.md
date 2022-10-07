@@ -23,6 +23,7 @@ The template repo to be used across all repos.
 - 第二會_無邊莊嚴_01_A/ - Diandian's draft
 - 第二會_無邊莊嚴_01_B/ - Yangxi's draft
 - 第二會_無邊莊嚴_01_C/ - Team draft (supervised by Metok)
+  - notes.md - feedback and issues recorded during the team discussion
 
 
 
