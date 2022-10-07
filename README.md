@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <a href="">Project</a> •
+  <a href="https://github.com/orgs/The-Kumarajiva-Project/projects/7/views/1">Project</a> •
   <a href="">RFJ</a> •
   <a href="">RFC</a> •
   <a href="">Discussion</a>
