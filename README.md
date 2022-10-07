@@ -20,9 +20,10 @@ The template repo to be used across all repos.
 
 ## Repository Contents
 
-- Folder 1
-  - File a
-  - File b
+- 第二會_無邊莊嚴_01_A/ - Diandian's draft
+- 第二會_無邊莊嚴_01_B/ - Yangxi's draft
+- 第二會_無邊莊嚴_01_C/ - Team draft (supervised by Metok)
+
 
 
 ## Owner
