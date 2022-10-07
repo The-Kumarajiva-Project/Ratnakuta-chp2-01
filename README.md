@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/orgs/The-Kumarajiva-Project/projects/7/views/1">Project</a> •
   <a href="">RFJ</a> •
-  <a href="">RFC</a> •
+  <a href="https://github.com/The-Kumarajiva-Project/Ratnakuta-chp2-01/issues/1">RFC</a> •
   <a href="">Discussion</a>
 
 </p>
